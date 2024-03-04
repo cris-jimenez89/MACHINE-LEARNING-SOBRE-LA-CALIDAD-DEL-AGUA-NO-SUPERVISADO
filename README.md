@@ -1,6 +1,5 @@
 ## MACHINE-LEARNING-SOBRE-LA-CALIDAD-DEL-AGUA-NO-SUPERVISADO
 ### PROYECTO 2b: MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA NO SUPERVISADO
-[*MACHINE LEARNING CALIDAD DEL AGUA SUPERVISADO*](https://github.com/cris-jimenez89/MACHINE-LEARNING-SOBRE-LA-CALIDAD-DEL-AGUA-NO-SUPERVISADO)
 * Damos una vuelta al modelo supervisado desarrollado en PROYECTO 2, MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO, que finalmente solo determinaria si esta contaminada o no segun sus componentes Y USAMOS APRENDIZAJE NO SUPERVISADO, PARA IDENTIFICAR PATRONES OCULTOS E INFORMACION NUEVA, ASI COMO POSIBLES RELACIONES ENTRE FEATURES QUE NO SE HABIAN CONSIDERADO CON ANTERIORIDAD y poder tomar posibles decisiones de cara a un futuro.
 * Nos servimos de dos datasets, el de la calidad del agua usado en el Proyecto 2, con columnas de las concentraciones de distintas sustancias que pueden ser contaminantes y otro sobre su potabilidad, con features que representan distintas carácterísticas del agua como el pH, la dureza, la turbicidad...
 * Keywords(Python, kaggle, Data Cleaning, Visualización, aprendizaje no supervisado,Kmeans)
